@@ -29,6 +29,9 @@ Benefits of Python-SQL Integration:
 ●	Data Storage: Store processed data into databases.
 ●	Data Manipulation: Update or delete records based on analysis.
 ●	Automation: Automate data-driven workflows and reports.
+
+
+
 How to Run the Project
 1.	Clone the repository or download the project files.
 2.	Ensure all dependencies are installed by running
